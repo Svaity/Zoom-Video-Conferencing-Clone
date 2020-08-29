@@ -7,9 +7,9 @@ let myVideoStream
 
 navigator.mediaDevices.getUserMedia({
     video: true,
-    audio= true
+    audio: true
 }).then(stream =>{
-    myVideoStream = stream
+    myVideoStream = stream;
     myVideoStream(myVideo, stream);
 } )
 
