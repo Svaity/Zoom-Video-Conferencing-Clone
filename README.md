@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://octalysisgroup.com/wp-content/uploads/2020/04/Zoom-REMOTE-Framework.png"/>
+   <img src="https://www.denairusd.org/__ccms_cepicture_images/6b810714-b5de-49c2-9936-f4c00945b18d.png"/>
 </div>
 
 <br />
