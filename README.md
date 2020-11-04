@@ -17,7 +17,8 @@
 ### Zoom clone using the Node and WebRTC stack which looks and feels exactly like Zoom 
 
  <p align="center">
-  
+   
+  ![Screenshot 2020-11-03 232604](https://user-images.githubusercontent.com/43662680/98069292-695c8f00-1e2c-11eb-972a-85d20e18a910.png)
 
 </p>
 
